@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# ¡Hola!
+# Hola 👋
 
-Bienvenido a mi página web.
+Bienvenido a mi página.
 
-Estoy creando mi sitio con GitHub Pages y el tema Slate.
+Esta página está hecha con GitHub Pages y Slate.
